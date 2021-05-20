@@ -10,6 +10,6 @@ For checking the working of the website,one should do the following steps:
      Open command prompt terminal and run the command - mongod
  5. Open another terminal and run the command :
       node app.js
- 6. Fix the errors occurred
+ 6. Fix the errors occurred.
       If successful,you will get the message “Server running in port 3000” in the terminal
  7. Now check the working of the website
